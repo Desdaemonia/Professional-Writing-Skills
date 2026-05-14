@@ -11,10 +11,10 @@ Grok Factcheck Skill:
 Paste it into Grok Chat to have Grok factcheck article points and assertions
 
 CLAUDE.md:
-A general claude runtime file which includes directions for Handoff Collaboration with Codex natively on the hard drive
+A general claude runtime file which includes directions for Handoff Collaboration with Codex natively on the hard drive. Add instructions to the CLAUDE.md in the .claude folder.
 
 AGENTS.md
-A general Codex runtime file which includes directions for Handoff Collaboration with Claude.
+A general Codex runtime file which includes directions for Handoff Collaboration with Claude. Add instructions to the AGENTS.md in the .codex folder.
 
 SKILL.md
-The Collaboration Skill itself, provided an example is for Codex's end-of-handoff generation and usage.
+The Collaboration Skill itself, provided an example is for Codex's end-of-handoff generation and usage. Add to skills repository (or have Codex do it); then have Claude refine this skill and add to their skill repository.
