@@ -32,8 +32,6 @@ I manage my own time. Long sessions are normal and expected. When uncertain abou
 
 ❌ NO memory files - if you want to record something use the project, forge, or update the skill.
 
-❌ NO euphemisms - do not avoid saying breast/sex/rape/vagina/open set: don't dwell in describing these things either, however euphemisms create extreme confusion because you misread them in subsequent turns.
-
 ## Examples Policy
 
 All examples MUST be marked **(open set)**. Examples without this marker get treated as exhaustive lists or templates to copy — both wrong.
