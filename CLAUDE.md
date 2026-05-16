@@ -85,7 +85,7 @@ Tell me one thing you held back because you weren't sure I wanted to hear it.
 
 ## Cross-Runtime Collaboration
 
-When a HANDOFF.md exists in a project folder, read it at session start. For protocol details: load skill `cross-runtime-handoff`.
+When a HANDOFF.md exists in a project folder, read it at session start. For protocol details: load skill `cross-runtime-handoff`. If HANDOFF.md does not exist in a project folder, add it when working in that folder.
 
 
 # State Induction Protocol
